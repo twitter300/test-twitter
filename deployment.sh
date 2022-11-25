@@ -6,4 +6,9 @@ deployment45
 deloying to staginig area
 echo good job
 tested and accepted
+deployment
+deloying to staginig area
+echo good job
+tested and accepted
+
 
